@@ -1,3 +1,3 @@
 # New Project
 
-This 
+This is a new project file.
